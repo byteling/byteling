@@ -9,7 +9,7 @@ Formerly used Arch, btw.
 ### Cloud Developer
 <p align="center">
   AWS Certified<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=31BEF7&center=true&vCenter=true&width=435&height=20&lines=Cloud+Practitioner;Developer+Associate;Solutions+Architect+Associate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=31BEF7&center=true&vCenter=true&width=435&height=20&lines=Cloud+Practitioner;Developer+Associate;Solutions+Architect+Associate;Solutions+Architect+Professional" alt="Typing SVG" /></a>
 </p>
 
 ### Selfhosting enthusiast
